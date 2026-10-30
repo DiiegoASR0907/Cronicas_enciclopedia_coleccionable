@@ -3,7 +3,10 @@
   "series": 1,
   "series_name": "Serie 01 — Primeras leyendas",
   "status": "prototype",
-  "card_size_mm": { "width": 63, "height": 88 },
+  "card_size_mm": {
+    "width": 63,
+    "height": 88
+  },
   "numbering": "unique_continuous",
   "cards": [
     {
@@ -15,11 +18,19 @@
       "rarity": "R5",
       "origin": "Macedonia",
       "period": "356 a. C. – 323 a. C.",
-      "attributes": { "poder": 95, "defensa": 85, "estrategia": 92, "carisma": 90 },
-      "special_ability": { "name": "Conquista sin límites", "description": "Aumenta su poder cuando lidera un ejército y reduce la defensa de sus enemigos." },
+      "attributes": {
+        "poder": 95,
+        "defensa": 85,
+        "estrategia": 92,
+        "carisma": 90
+      },
+      "special_ability": {
+        "name": "Conquista sin límites",
+        "description": "Aumenta su poder cuando lidera un ejército y reduce la defensa de sus enemigos."
+      },
       "description": "Rey de Macedonia y conquistador. Su campaña creó uno de los mayores imperios del mundo antiguo.",
       "editorial_status": "historical_figure; game attributes are fictional",
-      "art_status": "concept_montage_only"
+      "art_status": "concept_generated_pending_user_review"
     },
     {
       "id": "GOD-002",
@@ -30,11 +41,19 @@
       "rarity": "R4",
       "origin": "Grecia antigua · Olimpo",
       "period": "Tradición mitológica",
-      "attributes": { "poder": 98, "defensa": 90, "dominio": 95, "sabiduria": 88 },
-      "special_ability": { "name": "Rayo del Olimpo", "description": "Desata el poder del cielo y controla las tormentas." },
+      "attributes": {
+        "poder": 98,
+        "defensa": 90,
+        "dominio": 95,
+        "sabiduria": 88
+      },
+      "special_ability": {
+        "name": "Rayo del Olimpo",
+        "description": "Desata el poder del cielo y controla las tormentas."
+      },
       "description": "En la mitología griega, Zeus es el rey de los dioses y está asociado al cielo, el trueno y el gobierno del Olimpo.",
       "editorial_status": "mythological_figure; game attributes are fictional",
-      "art_status": "concept_montage_only"
+      "art_status": "concept_generated_pending_user_review"
     },
     {
       "id": "CRE-003",
@@ -45,8 +64,16 @@
       "rarity": "R3",
       "origin": "Tradición marítima escandinava",
       "period": "Folclore",
-      "attributes": { "poder": 96, "defensa": 88, "velocidad": 76, "inteligencia": 70 },
-      "special_ability": { "name": "Abrazo profundo", "description": "Puede inmovilizar a sus enemigos en el mar y arrastrarlos a las profundidades." },
+      "attributes": {
+        "poder": 96,
+        "defensa": 88,
+        "velocidad": 76,
+        "inteligencia": 70
+      },
+      "special_ability": {
+        "name": "Abrazo profundo",
+        "description": "Puede inmovilizar a sus enemigos en el mar y arrastrarlos a las profundidades."
+      },
       "description": "Monstruo marino gigantesco de relatos y tradiciones nórdicas.",
       "editorial_status": "folklore; game attributes are fictional",
       "art_status": "concept_montage_only"
@@ -60,11 +87,19 @@
       "rarity": "R4",
       "origin": "América del Norte",
       "period": "Relatos y avistamientos contemporáneos",
-      "attributes": { "poder": 82, "defensa": 90, "sigilo": 85, "resistencia": 88 },
-      "special_ability": { "name": "Paso silencioso", "description": "Puede moverse sin ser detectado en bosques y terrenos montañosos." },
+      "attributes": {
+        "poder": 82,
+        "defensa": 90,
+        "sigilo": 85,
+        "resistencia": 88
+      },
+      "special_ability": {
+        "name": "Paso silencioso",
+        "description": "Puede moverse sin ser detectado en bosques y terrenos montañosos."
+      },
       "description": "Criatura humanoide cubierta de pelo, protagonista de relatos y supuestos avistamientos en Norteamérica.",
       "editorial_status": "cryptid; existence is not scientifically established; game attributes are fictional",
-      "art_status": "concept_montage_only"
+      "art_status": "concept_generated_pending_user_review"
     },
     {
       "id": "HER-005",
@@ -75,8 +110,16 @@
       "rarity": "R5",
       "origin": "Tradición británica",
       "period": "Ciclo artúrico medieval",
-      "attributes": { "poder": 88, "defensa": 86, "liderazgo": 94, "carisma": 91 },
-      "special_ability": { "name": "La espada en la piedra", "description": "Inspira a sus aliados y aumenta su fuerza en batalla." },
+      "attributes": {
+        "poder": 88,
+        "defensa": 86,
+        "liderazgo": 94,
+        "carisma": 91
+      },
+      "special_ability": {
+        "name": "La espada en la piedra",
+        "description": "Inspira a sus aliados y aumenta su fuerza en batalla."
+      },
       "description": "Rey legendario de la tradición artúrica, símbolo de justicia, valor y liderazgo.",
       "editorial_status": "legendary figure; historical basis is debated; game attributes are fictional",
       "art_status": "concept_montage_only"
@@ -90,8 +133,16 @@
       "rarity": "R3",
       "origin": "Océano · tradición platónica",
       "period": "Relato de la Antigüedad clásica",
-      "attributes": { "poder": 80, "defensa": 85, "conocimiento": 92, "magia": 88 },
-      "special_ability": { "name": "Poder del océano", "description": "Puede invocar las fuerzas del mar y proteger su ciudad." },
+      "attributes": {
+        "poder": 80,
+        "defensa": 85,
+        "conocimiento": 92,
+        "magia": 88
+      },
+      "special_ability": {
+        "name": "Poder del océano",
+        "description": "Puede invocar las fuerzas del mar y proteger su ciudad."
+      },
       "description": "Isla o civilización descrita por Platón en sus diálogos; su interpretación como lugar histórico real es objeto de debate.",
       "editorial_status": "ancient philosophical account; historical existence is unconfirmed; game attributes are fictional",
       "art_status": "concept_montage_only"
@@ -105,8 +156,16 @@
       "rarity": "R5",
       "origin": "Tradición artúrica · Britania",
       "period": "Ciclo artúrico medieval",
-      "attributes": { "poder": 94, "defensa": 80, "magia": 90, "valor": 88 },
-      "special_ability": { "name": "El verdadero rey", "description": "Solo puede ser empuñada por quien merece el trono." },
+      "attributes": {
+        "poder": 94,
+        "defensa": 80,
+        "magia": 90,
+        "valor": 88
+      },
+      "special_ability": {
+        "name": "El verdadero rey",
+        "description": "Solo puede ser empuñada por quien merece el trono."
+      },
       "description": "Espada legendaria asociada al rey Arturo en la tradición artúrica.",
       "editorial_status": "literary and legendary artifact; game attributes are fictional",
       "art_status": "concept_montage_only"
@@ -120,8 +179,16 @@
       "rarity": "R4",
       "origin": "Esparta · Grecia",
       "period": "Antigua Grecia",
-      "attributes": { "poder": 90, "defensa": 95, "disciplina": 88, "resistencia": 85 },
-      "special_ability": { "name": "Formación falange", "description": "Aumenta la defensa del grupo y reduce el daño de los ataques enemigos." },
+      "attributes": {
+        "poder": 90,
+        "defensa": 95,
+        "disciplina": 88,
+        "resistencia": 85
+      },
+      "special_ability": {
+        "name": "Formación falange",
+        "description": "Aumenta la defensa del grupo y reduce el daño de los ataques enemigos."
+      },
       "description": "Representación de un hoplita espartano, miembro de una sociedad griega conocida por su organización militar.",
       "editorial_status": "historical archetype, not an individual; game attributes are fictional",
       "art_status": "concept_montage_only"
